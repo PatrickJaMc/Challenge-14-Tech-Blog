@@ -12,6 +12,8 @@ html {
   /* 2 */
 }
 
+
+
 /* Sections
    ========================================================================== */
 /**
@@ -19,6 +21,7 @@ html {
  */
 body {
   margin: 0;
+  background-color: gray;
 }
 
 /**
@@ -420,7 +423,7 @@ button {
 }
 
 a {
-  color: #1b89bc;
+  color: black;
   text-decoration: none;
 }
 
