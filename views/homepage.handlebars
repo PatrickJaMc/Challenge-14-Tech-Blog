@@ -5,13 +5,13 @@
     <h2>
       <!-- Call helper function with triple brackets to render the emoji span as HTML -->
       {{{get_emoji}}}
-      <a href="/project/{{post.id}}">{{post.title}}</a>
+      <a href="/project/{{post.id}}">{{post.topic}}</a>
     </h2>
     <p>Created by {{post.user.name}} on</p>
   </div>
   <div class="col-md-7">
     <p>
-      {{post.post_text}}
+      {{post.description}}
     </p>
   </div>
 </div>
