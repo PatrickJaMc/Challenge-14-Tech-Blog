@@ -1,14 +1,14 @@
 [
   {
-    "topic": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area."
+    "topic": "Coding Meet Up",
+    "description": "Theres going to be a coding meet up in the convention center, next week. Let me know who's going!"
   },
   {
-    "topic": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+    "topic": "Cool HTML shortcuts",
+    "description": "If you know of any cool, quick HTML shortcuts comment them below."
   },
   {
-    "topic": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
+    "topic": "Node for Beginners",
+    "description": "Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser."
   }
 ]
